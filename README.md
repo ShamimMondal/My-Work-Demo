@@ -1,4 +1,4 @@
 # My-Work-Demo
-<i><h2>This is my first Git Repository.</h2></i>
+This is my first Git Repository.
 <br>
-Author - Shamim Mondal
+Author -<i> Shamim Mondal</i>
